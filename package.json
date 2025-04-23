@@ -2,8 +2,8 @@
     "name": "jupyter-theme",
     "displayName": "Jupyter Theme",
     "description": "A colour theme based around Jupyter and Kaggle.",
-    "publisher": "sam-the-programmer",
-    "repository": "https://github.com/sam-the-programmer/vscode-jupyter-theme",
+    "publisher": "s4m-mo",
+    "repository": "https://github.com/s4m-mo/vscode-jupyter-theme",
     "icon": "resources/icon.png",
     "version": "0.1.3",
     "engines": {
